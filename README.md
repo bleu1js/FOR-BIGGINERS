@@ -4,8 +4,8 @@
     
   </HEAD>
 <BODY>
-  <p>If you are a beginner in programming Discord bots, you must register on the website <a href="https://discord.com/developers/docs/intro"> discord devlopers</a>and follow the following steps:</p><br>
-<Ul>
+<Ul>  <p>If you are a beginner in programming Discord bots, you must register on the website <a href="https://discord.com/developers/docs/intro"> discord devlopers</a> and follow the following steps:</p><br>
+
 <LI>
   Create an application and rest token
 </LI>
