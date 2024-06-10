@@ -4,7 +4,7 @@
     
   </HEAD>
 <BODY>
-  <p>If you are a beginner in programming Discord bots, you must register on the website<a href="https://discord.com/developers/docs/intro">discord devlopers</a>and follow the following steps:</p><br>
+  <p>If you are a beginner in programming Discord bots, you must register on the website <a href="https://discord.com/developers/docs/intro"> discord devlopers</a>and follow the following steps:</p><br>
 <Ul>
 <LI>
   Create an application and rest token
@@ -13,7 +13,7 @@
   Download the project file you want
 </Li>
 <li>
-Register on the site<a href="https://replit.com/~">reple it</a> or <a href="https://glitch.com/">glitch</a>
+Register on the site <a href="https://replit.com/~">reple it</a> or <a href="https://glitch.com/">glitch</a>
 </li>
 <li> 
 Upload the project file to the site
